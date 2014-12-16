@@ -116,7 +116,7 @@ hr {
   margin-bottom: 30px; }
 
 .container {
-  width: 500px;
+  width: 700px;
   margin: 0px 20px 0px 20px; 
   float: left;}
 
@@ -498,7 +498,7 @@ hr {
     margin-bottom: 10px; }
 
   .game-intro {
-    width: 55%;
+    width: 45%;
     display: block;
     box-sizing: border-box;
     line-height: 1.65; }
